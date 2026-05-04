@@ -1,7 +1,4 @@
 """Readability stats and AI tells detection — no LLM calls, pure regex/heuristics.
-
-Vendored from /home/orochford/humanize/backend/readability.py. Keep in sync with
-that source if the heuristic rules change upstream.
 """
 
 import re
